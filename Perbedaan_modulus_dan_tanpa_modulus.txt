@@ -1,0 +1,3 @@
+Jika menggunakan modulus,indeks abjad dari alpabhet akan dibatasi sebanyak 26, jadi jika huruf bergeser lebih dari indeks z atau ke 26 maka mengulang dari indeks awal 
+sedangkan jika tidak menggunakan modulus, alpabhet tidak dibatasi jadi jika bergeser lebih dari indeks z maka yang tampil adalah error 
+Jadi, perbedaannya adalah jika menggunakan modulus mengulangi ke indeks awal dan jika tanpa modulus tidak dibatasi dan tidak kembali ke indeks awal
